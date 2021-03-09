@@ -1,0 +1,13 @@
+E:\OCR\TesteIMG\testGtay\testGtay\bin\Debug\testGtay.exe.config
+E:\OCR\TesteIMG\testGtay\testGtay\bin\Debug\testGtay.exe
+E:\OCR\TesteIMG\testGtay\testGtay\bin\Debug\testGtay.pdb
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.csprojAssemblyReference.cache
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.Form1.resources
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.Properties.Resources.resources
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.csproj.GenerateResource.cache
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.csproj.CoreCompileInputs.cache
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.exe
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.pdb
+E:\OCR\TesteIMG\testGtay\testGtay\obj\Debug\testGtay.csproj.CopyComplete
+E:\OCR\TesteIMG\testGtay\testGtay\bin\Debug\Emgu.CV.World.dll
+E:\OCR\TesteIMG\testGtay\testGtay\bin\Debug\Emgu.CV.World.xml
